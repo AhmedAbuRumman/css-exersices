@@ -1,0 +1,31 @@
+body
+{
+    background-color: #f0f8ff;
+    
+}
+div
+{
+    width: 75%;
+    min-width: 500px;
+    border: 1px solid #333333 ;
+    line-height: 1em;
+    padding: 0.5em;
+    background-color: white;
+
+}
+.ipsum
+{
+    background-color:#fdca96; 
+    font-weight: bold;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+
+}
+.quis
+{
+
+    background-color:#fdfd96; 
+    font-weight: bold;
+    padding-right: 0.5em;
+    padding-left: 0.5em;
+}

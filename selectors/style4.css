@@ -1,0 +1,23 @@
+
+ul li ul li
+{
+    color: blue;
+}
+ul li ul li ul li {
+    list-style:none;
+}
+li:first-child {
+    font-weight: bold;
+}
+a {
+    color:green;
+}
+
+ul a {
+    color:red;
+}
+div:nth-of-type(2) p a {
+
+    color: purple;
+    background-color:yellow;
+}
